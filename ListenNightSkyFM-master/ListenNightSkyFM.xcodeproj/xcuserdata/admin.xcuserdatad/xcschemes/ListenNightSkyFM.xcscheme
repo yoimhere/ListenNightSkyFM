@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2E1621A31F1F44DE002CACB7"
-               BuildableName = "ListenNightSkyFM.app"
-               BlueprintName = "ListenNightSkyFM"
+               BuildableName = "qiejj.app"
+               BlueprintName = "qiejj"
                ReferencedContainer = "container:ListenNightSkyFM.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -53,8 +53,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2E1621A31F1F44DE002CACB7"
-            BuildableName = "ListenNightSkyFM.app"
-            BlueprintName = "ListenNightSkyFM"
+            BuildableName = "qiejj.app"
+            BlueprintName = "qiejj"
             ReferencedContainer = "container:ListenNightSkyFM.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -76,8 +76,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2E1621A31F1F44DE002CACB7"
-            BuildableName = "ListenNightSkyFM.app"
-            BlueprintName = "ListenNightSkyFM"
+            BuildableName = "qiejj.app"
+            BlueprintName = "qiejj"
             ReferencedContainer = "container:ListenNightSkyFM.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -95,8 +95,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2E1621A31F1F44DE002CACB7"
-            BuildableName = "ListenNightSkyFM.app"
-            BlueprintName = "ListenNightSkyFM"
+            BuildableName = "qiejj.app"
+            BlueprintName = "qiejj"
             ReferencedContainer = "container:ListenNightSkyFM.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
